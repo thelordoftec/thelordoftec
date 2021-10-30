@@ -1,7 +1,7 @@
 👋 Hi, I’m @thelordoftec
 👀 I’m interested in programming.
 
-- 🌱 I’m currently learning python and processing.
+- 🌱 I’m currently learning python and c#.
 - 
 🤖 My Skills:
 - 🐍 Python
