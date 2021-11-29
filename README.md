@@ -2,10 +2,11 @@
 👀 I’m interested in programming.
 
 - 🌱 I’m currently learning python and c#.
-- 
+
 🤖 My Skills:
 - 🐍 Python
-- 💻 Blender
+- 📕 C#
+- 💻 Blender 3d
 
 
 - 📫 How to reach me -> Mail: thelordoftec@gmx.net
