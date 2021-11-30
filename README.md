@@ -10,3 +10,4 @@
 
 
 - 📫 How to reach me -> Mail: thelordoftec@gmx.net
+- 🎞 My website: https://thelordoftec.github.io/
